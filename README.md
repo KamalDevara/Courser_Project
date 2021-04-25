@@ -1,4 +1,4 @@
-# Courser_Project
+# Courser Project
 
 # Project Name :- COURSEA MANAGEMENT SYSTEM
 
@@ -19,7 +19,7 @@
    --- Used XAMPP control panel, it is development environment and utilized Team service for managing the code repository for PHP and MySql.
    --- Used all the key concepts() in PHP Language with proper coding standards.
    
-   NOTES :- YOU CAN VIEW TO WEB PAGE DESIGN, I UPLOAD IMAGES IN THE GITHUD.
+   NOTES :- YOU CAN VIEW TO WEB PAGE DESIGN, I UPLOAD IMAGES IN THE GITHUB.
    
    @ Project is incomplete. i will update soon.
    @ Its not a responsive page. So please be patient till I update it.
